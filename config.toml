@@ -9,7 +9,7 @@ contentdir = "content"
 layoutdir = "layouts"
 publishdir = "../eff-kay.github.io"
 # disqusshortname   = "xxx" # Enable Disqus for comments
-# googleAnalytics   = "xxx"
+# googleAnalytics   = "true"
 
 [permalinks]
 fixed = ":title/"
