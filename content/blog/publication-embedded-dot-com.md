@@ -64,9 +64,12 @@ Lets start with the basics.
 
     int volatile* pvi; // is a pointer to a volatile int; meaning the object it is pointing to, is volatile
 
-    int* volatile vpi; // is a volatile pointer to an int; pointer is volatile, the object it is pointing to is an int. This is of fairly less use.
+    int* volatile vpi; // is a volatile pointer to an int; pointer is volatile, the object it is pointing to is an int. 
 
-    int volatile* volatile vpvi; // volatile pointer to a volatile int; both the pointer and the memory location it is pointing to, are volatile int.
+    //This is of fairly less use.
+
+    int volatile* volatile vpvi; // volatile pointer to a volatile int; both the pointer and
+    //the memory location it is pointing to, are volatile int.
 
 As a general rule of thumb, when reading complex declarations the rule is to start reading from the right and go all the way to the left. This rule is helpful in other declarations as well. The rule is also one of the reasons you should [put qualifiers to the right](http://www.embedded.com/electronics-blogs/programming-pointers/4025609/Place-volatile-accurately.) of the type it is qualifying.
 
