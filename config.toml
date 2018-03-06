@@ -21,7 +21,7 @@ firstname = "Faizan" # First name shows in introduction on main page
 tagline = "I'm a certified leader of sloths" # Appears after the introduction
 introheight = "large" # Input either 'medium' or 'large' or 'fullheight'
 theme = "light" # Choose 'light' or 'dark'
-avatar = "img/profile_1.jpg" # Path to image in static folder eg. img/avatar.png, or comment out to remove
+avatar = "img/PIC1.jpg" # Path to image in static folder eg. img/avatar.png, or comment out to remove
 email = "faizan10114@gmail.com" # Shows in contact section, or leave blank to omit
 localtime = false # Show your current local time in contact section
 timezone = "America/Los_Angeles" # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -49,17 +49,18 @@ sharegoogleplus = true
 showprojects    = true # Show Projects section on home page
 
 # This is your projects section. Three images of the same dimensions will look the nicest. If images are omitted, text links will be shown.
-project1link = "https://play.google.com/store/apps/details?id=com.vanity.iqbal&hl=en"
-project1img = "img/project1_image.jpg"
-project1title = "Iqbal Demystified"
+
+project1link = "https://demystifyx.com"
+project1img = "https://source.unsplash.com/random/700x180?coding"
+project1title = "CryptoDevResource"
 
 project2link = "http://www.getsmartaudio.com"
 project2img = "img/getsmart2.jpg"
 project2title = "Get Smart Audio"
 
-project3link = "#"
-project3img = "img/project3.jpg"
-project3title = "Project 3"
+project3link = "https://play.google.com/store/apps/details?id=com.vanity.iqbal&hl=en"
+project3img = "img/project1_image.jpg"
+project3title = "Iqbal Demystified"
 
 
 # Social icons appear in introduction and contact section. Add as many more as you like.
