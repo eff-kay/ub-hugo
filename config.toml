@@ -50,9 +50,9 @@ showprojects    = true # Show Projects section on home page
 
 # This is your projects section. Three images of the same dimensions will look the nicest. If images are omitted, text links will be shown.
 
-project1link = "https://demystifyx.com"
+project1link = "https://learnblockchaindev.com"
 project1img = "https://source.unsplash.com/random/700x180?coding"
-project1title = "CryptoDevResource"
+project1title = "LearnBlockChainDev"
 
 project2link = "http://www.getsmartaudio.com"
 project2img = "img/getsmart2.jpg"
