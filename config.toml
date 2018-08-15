@@ -50,17 +50,21 @@ showprojects    = true # Show Projects section on home page
 
 # This is your projects section. Three images of the same dimensions will look the nicest. If images are omitted, text links will be shown.
 
-project1link = "https://learnblockchaindev.com"
-project1img = "https://source.unsplash.com/random/700x180?coding"
-project1title = "LearnBlockChainDev"
+project1link = "https://blockchainathons.com"
+project1img = "https://source.unsplash.com/random/700x180?coding&1"
+project1title = "Blockchainathons"
 
-project2link = "http://www.getsmartaudio.com"
-project2img = "img/getsmart2.jpg"
-project2title = "Get Smart Audio"
+project2link = "https://learnblockchaindev.com"
+project2img = "https://source.unsplash.com/random/700x180?coding&2"
+project2title = "LearnBlockChainDev"
 
-project3link = "https://play.google.com/store/apps/details?id=com.vanity.iqbal&hl=en"
-project3img = "img/project1_image.jpg"
-project3title = "Iqbal Demystified"
+project3link = "http://www.getsmartaudio.com"
+project3img = "img/getsmart2.jpg"
+project3title = "Get Smart Audio"
+
+project4link = "https://play.google.com/store/apps/details?id=com.vanity.iqbal&hl=en"
+project4img = "img/project1_image.jpg"
+project4title = "Iqbal Demystified"
 
 
 # Social icons appear in introduction and contact section. Add as many more as you like.

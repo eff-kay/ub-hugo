@@ -6,7 +6,7 @@ title = "about"
 +++
 
 
-I am a tinkerer at heart, I have dabbled in a lot of technologies ranging from embedded software to web dev, from hardware signals to the application UI and everything inbetween.
+I have dabbled in a lot of technologies ranging from embedded software to web dev, from hardware signals to the application UI and everything inbetween.
 
 **Recent Interests**
 
@@ -19,12 +19,14 @@ I am a tinkerer at heart, I have dabbled in a lot of technologies ranging from e
 
 **Senior Software Development Engineer @ Mentor Graphics**
 
- - By day, I port Nucleus RTOS to different architectures.
+ - I ported Nucleus RTOS to different architectures.
  - Implemented a bootloader from scratch for Nucleus for a variety of targets.
- - Restructured/Implemented drivers for Nucleus Safety Cert
+ - Restructured/Implemented drivers for Safety Certification of Nucleus
  - Have resolved bugs and ported almost all of the drivers available, CAN, USB, ETHERNET, SD/MMC, I2C, SPI, DISPLAY, TOUCHSCREEN, AUDIO, to name a few...
+ - Implemented hibernate and deep sleep support in Nucleus
+ - Worked on SMP support for a lot of vendor boards. 
 
- **Senior Hero @ Jfreaks**
+ **Chief Firefighter @ Jfreaks**
 
- - By night, I validate some crazy ideas in the web dev space.
- - Stack include, grails (learning), django(expert), aws,azure
+ - Product Manager on one Product, Tech lead on another and software developer on another. I wear many hats. The goal is to ship.
+ - Stack include, grails, golang, vuejs, django, AWS, azure and GCP...
